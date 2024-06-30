@@ -1,5 +1,5 @@
 # Overview
-A simple travel list web app that allows users to manage their travel packing needs by easily adding and removing items, utilizing checkboxes to mark items as completed, and sorting the list alphabetically for enhanced organization.
+A simple travel list user interface that allows users to manage their travel packing needs by easily adding and removing items, utilizing checkboxes to mark items as completed, and sorting the list alphabetically for enhanced organization.
 
 ## Dependencies
 To install project dependencies, delete package-lock.json and run
